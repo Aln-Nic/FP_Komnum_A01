@@ -1,11 +1,14 @@
-# FP_Komnum_A0
+# FP_Komnum_088
 
-Nama Anggota Kelompok 01
-Aji Zaenul Mustafa 5025241065 ||
-Nick Alan Marpaung 5025241088 <--(ME)||
-Willy Dava Nugraha 5025241090 ||
-Farras Abdurrazzaq 5025241091 ||
-Abdullah Sultan Barizy 5025241092 ||
+## Nama Anggota Kelompok 01
+|    NRP     |      Nama      |
+| :--------: | :------------: |
+| 5025241065 | Aji Zaenul Musthofa|
+| 5025241088 | Nick Alan Marpaung (Me)|
+| 5025241090 | Willy Dava Nugraha |
+| 5025241091 | Farras Abdurrazzaq |
+| 5025241092 | Abdullah Sultan Barizy |
+
 
 ## GLOSARIUM SINTAKS
 - `df = pd.DataFrame` membuat sebuah Data Frame bernama df
